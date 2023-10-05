@@ -7,3 +7,7 @@
 - GM Saha
 - GM Sinema / Casper Sinema
 - GM Asistan *(mainly Live Device)*
+
+## Todo:
+
+- [ ] Initalize project (test)
